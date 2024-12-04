@@ -1,6 +1,6 @@
-
-<h1 align="center">Olá 👋</h1>
 <h2 align="center">Leonardo R. Gobatto</h2>
 
-Técnico em Informática pelo IFRS e estudante de Engenharia de Computação na UFRGS. <br>
-Atualmente interessado nas linguagens C++ e C# para backend e Javascript(ReactJS e AngularJS) para o frontend. 
+Technician in Information Technology from IFRS.
+Bachelor's Degree in Computer Engineering from UFRGS.
+PhD Candidate in Computer Science at the Graduate Program in Computing (PPGC) - UFRGS.
+Doctoral research: Development and utilization of Software-Implemented Hardware Fault Tolerance (SIHFT) techniques in systems under radiation effects.
